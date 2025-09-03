@@ -8,7 +8,7 @@
 
 ## Video
 
-Our video can be found in the youtube video [link](link) 
+Our video can be found in the youtube video [https://youtu.be/BukbXy-qSIY](https://youtu.be/BukbXy-qSIY)
 
 ## Report
 
