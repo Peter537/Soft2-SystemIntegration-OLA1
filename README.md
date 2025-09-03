@@ -8,7 +8,7 @@
 
 ## Video
 
-Our video can be found in the video
+Our video can be found in the youtube video [link](link) 
 
 ## Report
 
